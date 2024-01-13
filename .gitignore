@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+*.env
+/.vscode/
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Jupyter Lab
+/.jupyter/
+
+# Package files
+*.whl
+*.egg-info/
+dist/
+
+# Database
+*.sqlite3
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# PyInstaller
+build/
+dist/
+
+# Temp files
+*.tmp
+
+# Pytest
+pytest_cache/
+
+# coverage
+.coverage
+
+# Files for debugging
+*.pydevproject
+*.pydevprojectc
+
+# End of File
+__pycache__/
+*.log
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.pyc
+*.pyo
+*.pyd
